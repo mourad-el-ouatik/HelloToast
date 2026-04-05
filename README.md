@@ -17,8 +17,5 @@ Elle permet d'afficher un compteur interactif avec deux fonctionnalités :
 - Android SDK
 - Android Studio
 
-## Lancer le projet
-
-1. Cloner le dépôt
-2. Ouvrir le projet dans Android Studio
-3. Lancer l'application sur un émulateur ou un appareil physique
+## Demo:
+- Regarder le code et la video dans le repos
