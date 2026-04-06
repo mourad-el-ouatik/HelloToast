@@ -1,47 +1,24 @@
-# Form Validation App - Application Android
+# HelloToast - Application Android
 
-Application Android développée avec Android Studio permettant de saisir et valider des informations utilisateur via un formulaire interactif, puis d'afficher un récapitulatif dans un second écran.
+Application Android simple développée avec Android Studio.  
+Elle permet d'afficher un compteur interactif avec deux fonctionnalités :
+
+- Incrémenter un compteur affiché à l'écran
+- Afficher la valeur actuelle du compteur via un message Toast
 
 ## Fonctionnalités
-### Formulaire utilisateur :
-- Nom et prénom
-- Adresse email
-- Numéro de téléphone
-- Adresse
-- Ville
 
-### Validation des données :
-- Vérification des champs obligatoires
-- Validation du format de l’email
-- Vérification du numéro de téléphone
-
-### Navigation entre écrans :
-- Passage vers un écran de vérification après validation
-- Affichage des données saisies
-- Possibilité de revenir en arrière pour corriger
-
-### Interface moderne (UI/UX) :
-- Design structuré avec header stylisé
-- Carte récapitulative des informations
-- Expérience utilisateur fluide
+- **Bouton "Incrémenter le compteur"** : augmente le compteur de 1 à chaque appui
+- **Bouton "Afficher un message"** : affiche un Toast avec la valeur actuelle du compteur
 
 ## Technologies utilisées
+
 - Java
 - Android SDK
 - Android Studio
-- XML (UI Design)
 
-## Objectif du projet
+## Lancer le projet
 
-Ce projet a pour but de pratiquer :
-
-- La gestion des formulaires Android
-- La validation des entrées utilisateur
-- La communication entre activités (Intent)
-- La conception d'interfaces modernes en XML
-
- # Démo
-- 📂 Consulter le code source dans ce repository
-- 🎥 Voir la démonstration vidéo incluse
-- 📱 Telecharger l'APK et tester dans votre telephone.
-- 👨‍💻 Auteur: Mourad EL OUATIK
+1. Cloner le dépôt
+2. Ouvrir le projet dans Android Studio
+3. Lancer l'application sur un émulateur ou un appareil physique
